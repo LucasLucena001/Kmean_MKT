@@ -6,11 +6,6 @@ Este repositório contém um projeto de análise de clusterização que visa seg
 
 A empresa de e-commerce forneceu um dataset contendo dados sobre clientes, produtos e transações realizadas entre os anos de 2010 e 2011. O projeto utiliza técnicas de machine learning, especificamente o algoritmo K-means, para agrupar os clientes em clusters com base em critérios como frequência de compra, quantidade de produtos comprados, gasto total e variedade de produtos.
 
-## Instalação
 
-Siga os passos abaixo para configurar o ambiente local e executar o projeto:
 
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-pip install -r requirements.txt
+
